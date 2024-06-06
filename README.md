@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is demo repo.
+This is Demo Repository.
+Author - Pranav Shintre.
